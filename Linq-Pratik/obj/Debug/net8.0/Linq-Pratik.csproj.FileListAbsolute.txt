@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\bin\Debug\net8.0\Linq-Pratik.exe
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\bin\Debug\net8.0\Linq-Pratik.deps.json
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\bin\Debug\net8.0\Linq-Pratik.runtimeconfig.json
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\bin\Debug\net8.0\Linq-Pratik.dll
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\bin\Debug\net8.0\Linq-Pratik.pdb
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.sourcelink.json
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.dll
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\refint\Linq-Pratik.dll
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.pdb
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\Linq-Pratik.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Linq-Pratik\Linq-Pratik\obj\Debug\net8.0\ref\Linq-Pratik.dll
